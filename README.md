@@ -1,4 +1,4 @@
-# EdstemAssignment
+# Contact Management System
 
 This contact Management is a simple REST API application and it is developed using Spring Boot and laguage used is Java.
 
