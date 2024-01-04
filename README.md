@@ -8,7 +8,7 @@ Maven
 STS or any other IDE
 
 ### Steps
-** clone the repository by: **
+clone the repository by: 
 git clone repositoryurl
 
 #### Database Configuration
